@@ -15,6 +15,8 @@ public class Main {
 
     public static void doSomething() {
         System.out.println("do something");
+        System.out.println("do something else");
+        System.out.println("Hello World");
     }
 
 }

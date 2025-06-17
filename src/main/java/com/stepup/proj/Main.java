@@ -10,7 +10,8 @@ public class Main {
         System.out.println(3);
         System.out.println(4);
         System.out.println(5);
-        Cat cat = new Cat("b", 2);
+        Cat cat = new Cat("bars", 2);
+        System.out.println(cat.getName());
     }
 
     public static void doSomething() {
